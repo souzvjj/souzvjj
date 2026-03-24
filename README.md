@@ -31,6 +31,8 @@
 
 <li>Cinemáticamente falando, gosto de filmes brasileiros.</li>
 
+<li>Em relação a jogos, sou muito fã da franquia Pokemon e também de Cyberpunk 2077, Hades e SpiderMan.</li>
+
 <li>Adoro ajudar as pessoas! 💙</li>
 
 <li>📬 Se quiser conversar ou colaborar, você pode me encontrar pelo 
