@@ -21,7 +21,7 @@
 <td valign="top">
 
 <ul>
-<li>Como supracitado, me chamo João Souza e sou graduando no curso de Ciências de Dados e IA na faculdade PUC MINAS, unidade praça liberdade.</li>
+<li>Como supracitado, me chamo João Souza e sou graduando no curso de Ciências de Dados e IA na faculdade PUC MINAS, unidade lourdes.</li>
 
 <li>Aqui no meu GitHub você vai encontrar projetos, experimentos e estudos que fazem parte da minha jornada na área de dados. Muitos deles surgem de curiosidade, de desafios da faculdade ou de ideias que tive vontade de testar na prática. Para mim, programar e trabalhar com dados também é uma forma de aprender constantemente e construir coisas novas.</li>
 
@@ -65,7 +65,7 @@
 <a href="https://www.instagram.com/souzvj/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:souzvjj@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/souzvjj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-vasconcelos-de-souza-8694883b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div> 
 
 -----
