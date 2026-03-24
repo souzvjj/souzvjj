@@ -33,7 +33,7 @@
 
 <li>Em relação a jogos, sou muito fã da franquia Pokemon e também de Cyberpunk 2077, Hades e SpiderMan.</li>
 
-<li>Tento sempre que possível responder rápido e auxiliar os outros no que possível.</li>
+<li>Tento sempre que possível responder rápido e auxiliar os outros.</li>
 
 <li>📬 Se quiser conversar ou colaborar, você pode me encontrar pelo 
 <a href="mailto:souzvjj@gmail.com">e-mail profissional</a>.</li>
