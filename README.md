@@ -43,7 +43,7 @@
 
 <td width="40%" align="center" valign="middle">
 
-<img src="https://github.com/analorens/analorens/blob/main/imgs/lorens.png?raw=true" width="100%"/>
+<img src="https://github.com/souzvjj/souzvjj/blob/main/gifstest/lucy.gif?raw=true" width="100%"/>
 
 </td>
 
