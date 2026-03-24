@@ -10,7 +10,7 @@
 <div>
    <details>
    </summary>
-     <summary><img height="20" alt="GIF" src="https://github.com/souzvjj/souzvjj/blob/main/gifstest/munchlax.gif"/> Sobre mim:</summary>
+     <summary><img height="20" alt="GIF" src="https://github.com/souzvjj/souzvjj/blob/main/gifstest/happychax.gif"/> Sobre mim:</summary>
     </summary>
   </details>
 </div>
